@@ -1,7 +1,5 @@
 ### Hi there 👋 I'm [Ayushman!](https://github.com/ayushman1712/ayushman1712/)
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" />
-
 ## I'm an Upcoming Associate Member of Technical Staff at Salesforce
 
 - 👨‍💻 I’m currently working on machine learning and data mining projects using python.
