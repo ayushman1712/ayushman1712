@@ -2,7 +2,7 @@
 
 ## I'm an Upcoming Associate Member of Technical Staff at Salesforce
 
-- 👨‍💻 I’m currently developing an AR/VR Sandbox solution for potential use in military training and strategy.
+- 👨‍💻 Developing an AR/VR Sandbox solution for potential use in military training and strategy.
 - 📚 Currently learning Unity and Android development.
 
 
