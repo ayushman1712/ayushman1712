@@ -1,4 +1,4 @@
-### Hi there 👋 I'm [Ayushman!](https://github.com/ayushman1712/ayushman1712/)
+### Hi 👋 I'm [Ayushman!](https://github.com/ayushman1712/ayushman1712/)
 
 ## I'm an Upcoming Associate Member of Technical Staff at Salesforce
 
